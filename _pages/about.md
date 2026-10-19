@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the School of Software, Shandong University, supervised by [Prof. Lu Bai](https://faculty.sdu.edu.cn/lubai/zh_CN/index.htm). I am a member of the Pervasive Connectivity and Networked Intelligence (PCNI) group.
+I am a Ph.D. candidate in the School of Software, Shandong University, supervised by [Prof. Lu Bai](https://faculty.sdu.edu.cn/lubai/zh_CN/index.htm). I am a member of the [Pervasive Connectivity and Networked Intelligence (PCNI)](http://pcni.pku.edu.cn/cn/homepage.html) group.
 
 My research interests include AI-empowered wireless channel measurements and channel modeling.
 
