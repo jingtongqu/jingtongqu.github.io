@@ -23,6 +23,16 @@ jobs:
 
     - name: Install dependencies
       run: |
+        python -m pip install --upgrade pip
+        python -m pip install jupyter ipykernel python-frontmatter getorg geopy
+    
+    - name: Check Python environment
+      run: |
+        python --version
+        python -c "import frontmatter; import getorg; print('Imports OK')"
+        
+    - name: Install dependencies
+      run: |
         pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
         pip install getorg --upgrade
 
