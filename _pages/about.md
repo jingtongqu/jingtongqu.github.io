@@ -14,6 +14,7 @@ My research interests include AI-empowered wireless channel measurements and cha
 Education
 ======
 2026.09 – Present, Ph.D. Candidate, School of Software, Shandong University, Jinan.
+
 2022.09 – 2026.06, Undergraduate, School of Software, Shandong University, Jinan.
 
 
@@ -33,3 +34,16 @@ Conferences
 
 Honors & Awards (Selected)
 ======
+## Honors & Awards <span style="color:#c65a3a;">(Selected)</span>
+
+### 2026
+- Shandong University Outstanding Graduate.
+
+### 2025
+- Second Prize, China Intelligent Vehicle Future Challenge (Offline Testing Algorithm Competition).
+
+### 2024
+- National Scholarship (Undergraduate).
+
+### 2023
+- National Scholarship (Undergraduate).
