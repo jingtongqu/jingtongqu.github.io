@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Jingtong Qu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate, School of Software, Shandong University"
   location         : "Jinan, Shandong"
   employer         : "Shandong University"
-  uri              : # URL
-  email            : "jingtongqu@mail.sdu.edu.cn" 
+  # uri              : "jingtongqu@mail.sdu.edu.cn"
+  email            : jingtongqu@mail.sdu.edu.cn
 
   # Academic websites
   academia         : # URL
