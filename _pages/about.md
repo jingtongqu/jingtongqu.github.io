@@ -34,8 +34,6 @@ Conferences
 
 Honors & Awards (Selected)
 ======
-## Honors & Awards <span style="color:#c65a3a;">(Selected)</span>
-
 ### 2026
 - Shandong University Outstanding Graduate.
 
